@@ -7,6 +7,6 @@
 
 ## index.js
 
-### In this file im initializing a RESTful-API on localhost 8080 with simple functionallity using expressJS and NodeJS.
+### In this file im initializing a RESTful-API on localhost 8080 with simple functionallity using Node.JS with Express.JS.
 - Simple response to the GET Request
 - Simple response of the parameters on the POST Request.
