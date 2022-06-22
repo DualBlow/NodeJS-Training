@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS-Training",
+  "version": "1.0.0",
+  "description": "## In this repo I will document my NodeJS learning journey",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DualBlow/NodeJS-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DualBlow/NodeJS-Training/issues"
+  },
+  "homepage": "https://github.com/DualBlow/NodeJS-Training#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
