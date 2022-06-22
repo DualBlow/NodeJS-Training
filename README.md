@@ -1,12 +1,12 @@
 # NodeJS-Training
 
-## In this repo I will document my NodeJS learning journey
+## This repo contains my Node.JS learning journey.
 
 - At first, I am going to focus on learing how to use NodeJS to initiallize and Use RESTful API
-- Second goal is to transition to Typescript and mongoDB in order to learn the required skills for back-end development.
+- Second goal is to transition to Typescript and mongo DB in order to learn the required skills for back-end development.
 
 ## index.js
 
-### In this file im initializing a RESTful-API on localhost 8080 with simple functionallity using Node.JS with Express.JS.
+1. ### First thing I did was to initialize a RESTful-API with simple functionallity using Node.JS with Express.JS. 
 - Simple response to the GET Request
 - Simple response of the parameters on the POST Request.
