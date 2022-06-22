@@ -25,7 +25,7 @@ app.post("/song/:name", (request, response) => {
         song: "Song name >> " + name + " when used: " + utility
     });
 
-    }else{
+    }else {
         response.send ({
             error: "Not yet added"
         });
